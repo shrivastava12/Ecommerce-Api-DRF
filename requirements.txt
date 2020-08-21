@@ -61,18 +61,11 @@ python-jsonrpc-server==0.3.4
 python-language-server==0.31.8
 python-utils==2.4.0
 python3-openid==3.1.0
-pytz==2018.5
-pywin32==227
-pywin32-ctypes==0.2.0
-pywinpty==0.5.7
-pyzmq==19.0.0
-QDarkStyle==2.8
-QtAwesome==0.7.0
-qtconsole==4.6.0
-QtPy==1.9.0
+
+
 requests==2.21.0
 requests-oauthlib==1.2.0
-rope==0.16.0
+
 Send2Trash==1.5.0
 six==1.14.0
 
@@ -81,11 +74,4 @@ six==1.14.0
 urllib3==1.24.2
 virtualenv==20.0.7
 virtualenvwrapper-win==1.2.6
-watchdog==0.10.2
-wcwidth==0.1.8
 
-Werkzeug==1.0.1
-wrapt==1.11.2
-WTForms==2.3.1
-yapf==0.29.0
-zipp==3.0.0
