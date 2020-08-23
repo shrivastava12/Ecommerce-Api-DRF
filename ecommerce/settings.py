@@ -25,7 +25,7 @@ SECRET_KEY = 'ijbav3gzr0skj)7h#j480p+2k!g@jh)wxzrf^9f5m=e$e91%a6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.kaprabecho.ml',]
 
 
 # Application definition
