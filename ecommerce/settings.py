@@ -61,7 +61,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ORIGIN_WHITELIST = ['http://localhost:3000']
+CORS_ORIGIN_WHITELIST = ['https://brave-neumann-308d5b.netlify.app/']
 
 ROOT_URLCONF = 'ecommerce.urls'
 
