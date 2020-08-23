@@ -37,6 +37,7 @@ pathtools==0.1.2
 
 pickleshare==0.7.5
 Pillow==7.1.2
+pytz
 
 
 python-jsonrpc-server==0.3.4
